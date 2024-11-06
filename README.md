@@ -79,8 +79,8 @@ assign f4=~f1;
 assign f5=~f2;
 assign f6=a^b;
 assign f7=~(a^b);
-endmodule
-~~~
+endmodule 
+```
 
 **Logic symbol & Truthtable**
 ![WhatsApp Image 2024-11-06 at 08 04 37_8b58f727](https://github.com/user-attachments/assets/f05c6be9-e092-40e1-87b4-6649f721278b)
